@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vizioz-swagger-mcp-badge.png)](https://mseep.ai/app/vizioz-swagger-mcp)
+
 # Swagger MCP Server
 
 A server that ingests and serves Swagger/OpenAPI specifications through the Model Context Protocol (MCP).
